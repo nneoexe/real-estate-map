@@ -1,6 +1,6 @@
 'use client';
 
-import Map, {Marker, Popup} from 'react-map-gl/mapbox';
+import Map, { Marker, Popup } from 'react-map-gl/mapbox';
 import 'mapbox-gl/dist/mapbox-gl.css';
 import { useState } from "react";
 
